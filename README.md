@@ -4,7 +4,7 @@
 
 # PropertySeeker
 
-PropertySeeker is a real estate marketplace for buying or renting homes in Bahrain. Seekers can filter listings, inspect property images, book viewing appointments and leave reviews after a completed visit. Owners manage listings, images and viewing availability.
+PropertySeeker is a real estate marketplace for buying or renting homes in Bahrain. Seekers can filter listings, inspect property images, book viewing appointments and leave property reviews. Owners manage listings, images and viewing availability.
 
 Built by [Ahmed Tarek](https://github.com/ctarek2015-wq).
 
@@ -17,7 +17,7 @@ Built by [Ahmed Tarek](https://github.com/ctarek2015-wq).
 - Filters for price, area, bedrooms, bathrooms, location, rating and availability.
 - Cloudinary image uploads, removal and main-image selection.
 - Viewing availability, appointment booking and appointment management.
-- Reviews and ratings after completed viewings.
+- Property reviews and ratings.
 - Profile management, welcome/appointment emails and password-reset emails.
 
 ## Stack and Architecture
